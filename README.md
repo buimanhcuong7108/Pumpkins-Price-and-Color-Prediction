@@ -8,6 +8,7 @@ This project explores historical pumpkin prices using the records in `US-pumpkin
 - 🧹 Prepare relevant input features and a price value to predict.
 - 📊 Explore how recorded prices vary by date, season, and other attributes present in the dataset.
 - 🤖 Train regression models and evaluate their predictions against observed prices.
+- 🎨 Predict pumpkin color with logistic regression using selected features, then evaluate classification results on held-out data.
 - ⚠️ Consider the limitations of drawing conclusions from historical data.
 
 ## 📈 Prediction with linear regression and polynomial regression
